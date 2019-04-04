@@ -1,4 +1,3 @@
 # hello-world
-The first repository
-
+The first repository  
 Someone not so strong
